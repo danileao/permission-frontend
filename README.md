@@ -1,46 +1,65 @@
-# Getting Started with Create React App
+<h1 align="center">
+   Controle de Permissão de usuário - Frontend
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">  
+<a target="_blank" href="https://www.youtube.com/danieleleaoevangelista">
+<img src="https://raw.githubusercontent.com/danileao/nlw2/master/public/yout.png">
+</a> &nbsp; &nbsp;
 
-## Available Scripts
+<a target="_blank" href="https://www.instagram.com/dani_leao/">
+<img src="https://raw.githubusercontent.com/danileao/nlw2/master/public/_instagram.png">
+</a> &nbsp; &nbsp;
 
-In the project directory, you can run:
+<a target="_blank" href="https://twitter.com/danieleleao">
+<img src="https://raw.githubusercontent.com/danileao/nlw2/master/public/_twitter.png">
+</a> &nbsp; &nbsp;
 
-### `yarn start`
+<a target="_blank" href="https://www.linkedin.com/in/daniele-leão-evangelista-5540ab25/">
+<img src="https://raw.githubusercontent.com/danileao/nlw2/master/public/_linkedin.png"> &nbsp;
+</a>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Indice
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [Sobre](#-sobre)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Como baixar o projeto](#-como-baixar-o-projeto)
 
-### `yarn test`
+## 🔖&nbsp; Sobre
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Esse projeto foi criado com o objetivo de aplicar os conceitos de controle de usuário em uma aplicação frontend.
+O backend que será utilizado é <a href="https://github.com/danileao/permissions_users">esse</a>
 
-### `yarn build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Tecnologias utilizadas
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [ReactJS](https://pt-br.reactjs.org/)
+- [Axios](https://github.com/axios/axios)
+- [React Router DOM](https://reactrouter.com/web/guides/quick-start)
 
-### `yarn eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🗂 Como baixar o projeto
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+    # Clonar o repositório
+    $ git clone https://github.com/danileao/permission-frontend.git
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+    # Entrar no diretório
+    $ cd permission-frontend
 
-## Learn More
+    # Instalar as dependências
+    $ yarn install
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+    # Iniciar o projeto
+    $ yarn dev
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
+
+Desenvolvido 💜 por <a href="https://www.youtube.com/danieleleaoevangelista">Daniele Leão Evangelista</a>
